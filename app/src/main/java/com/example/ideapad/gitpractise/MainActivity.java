@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
         int wani=2+1;
 
-         int vishal_wani =1+5;
+         int vishal_wa =1+5;
 
         int sachin =5+5;
 
