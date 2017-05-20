@@ -3,6 +3,8 @@ package com.example.ideapad.gitpractise;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+// my duplicate project - rupa
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -14,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void upload(){
 
-        int yogesh=1+1;
+        int yogesh_ramdasRAO=1+1;
 
         int wani=2+1;
 
