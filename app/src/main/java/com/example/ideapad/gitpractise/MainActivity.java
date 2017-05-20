@@ -3,6 +3,7 @@ package com.example.ideapad.gitpractise;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+//my main project - yogesh
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -16,11 +17,11 @@ public class MainActivity extends AppCompatActivity {
 
         int yogesh=1+1;
 
-        int wani=2+1;
+        int waniRao=2+1;
 
          int vishal_wa =1+5;
 
-        int sachin =5+5;
+        int sachin_kadam_y=5+5;
 
     }
 }
