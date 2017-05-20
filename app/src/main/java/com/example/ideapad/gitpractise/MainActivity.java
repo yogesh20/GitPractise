@@ -10,17 +10,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
     }
 
     private void upload(){
 
+        int yogesh=1+1;
 
-        int i=1+1;
+        int wani=2+1;
 
-        int j=2+1;
-
-
+         int vishal =1+5;
 
     }
 }
