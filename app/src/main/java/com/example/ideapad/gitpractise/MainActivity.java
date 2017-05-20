@@ -13,15 +13,4 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    private void upload(){
-
-        int yogesh=1+1;
-
-        int waniRao=2+1;
-
-         int vishal_wa =1+5;
-
-        int sachin_kadam_y=5+5;
-
-    }
 }
