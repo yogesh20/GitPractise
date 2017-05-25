@@ -7,6 +7,6 @@ package com.example.ideapad.gitpractise;
 public class nine {
 
 
-    // hiiiiiiiiiiii
+    // hiiiiiiiiiiiiii
 
 }
